@@ -1,0 +1,23 @@
+{
+  "name": "popartmaker",
+  "version": "1.0.0",
+  "description": "POPART Maker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rozanne/popartMaker.git"
+  },
+  "author": "rosie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rozanne/popartMaker/issues"
+  },
+  "homepage": "https://github.com/rozanne/popartMaker#readme",
+  "dependencies": {
+    "chrome-launcher": "0.13.4",
+    "express": "4.17.1"
+  }
+}
